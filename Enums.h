@@ -1,0 +1,21 @@
+#ifndef SIMPLE_SQLITE_CLONE_ENUMS_H
+#define SIMPLE_SQLITE_CLONE_ENUMS_H
+
+
+enum class MetaCommandResult {
+    META_COMMAND_SUCCESS,
+    META_COMMAND_UNRECOGNIZED_COMMAND
+};
+
+enum class PreparationState {
+    PREPARE_SUCCESS,
+    PREPARE_UNRECOGNIZED_STATEMENT
+};
+
+enum class StatementType {
+    STATEMENT_INSERT,
+    STATEMENT_SELECT
+};
+
+
+#endif //SIMPLE_SQLITE_CLONE_ENUMS_H

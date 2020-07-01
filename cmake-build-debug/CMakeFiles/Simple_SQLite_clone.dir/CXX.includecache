@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programming_Projects/CLion_Projects/Simple_SQLite_clone/Enums.h
+
+D:/Programming_Projects/CLion_Projects/Simple_SQLite_clone/Statement.h
+iostream
+-
+string
+-
+Enums.h
+D:/Programming_Projects/CLion_Projects/Simple_SQLite_clone/Enums.h
+
+D:/Programming_Projects/CLion_Projects/Simple_SQLite_clone/main.cpp
+iostream
+-
+string
+-
+Enums.h
+D:/Programming_Projects/CLion_Projects/Simple_SQLite_clone/Enums.h
+Statement.h
+D:/Programming_Projects/CLion_Projects/Simple_SQLite_clone/Statement.h
+

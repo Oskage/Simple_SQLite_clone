@@ -1,0 +1,3 @@
+D:/Programming_Projects/CLion_Projects/Simple_SQLite_clone/cmake-build-debug/CMakeFiles/Simple_SQLite_clone.dir
+D:/Programming_Projects/CLion_Projects/Simple_SQLite_clone/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming_Projects/CLion_Projects/Simple_SQLite_clone/cmake-build-debug/CMakeFiles/rebuild_cache.dir
